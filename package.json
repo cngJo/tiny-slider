@@ -1,7 +1,7 @@
 {
-  "name": "tiny-slider",
+  "name": "@jojopr/tiny-slider",
   "version": "2.9.4",
-  "description": "Vanilla javascript slider for all purposes, inspired by Owl Carousel.",
+  "description": "Vanilla javascript slider for all purposes, forked from tiny-slider.",
   "main": "dist/tiny-slider.js",
   "types": "src/tiny-slider.d.ts",
   "directories": {
@@ -24,20 +24,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ganlanyuan/tiny-slider.git"
+    "url": "git+https://github.com/cngJo/tiny-slider.git"
   },
   "files": [
     "dist",
     "src"
   ],
   "keywords": [],
-  "author": "ganlanyuan <ganlanyuan@gmail.com>",
+  "author": "Johannes Przymusinski <johannes@przymusinski.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ganlanyuan/tiny-slider/issues"
+    "url": "https://github.com/cngJo/tiny-slider/issues"
   },
   "browserslist": "> 0.25%, not dead",
-  "homepage": "https://github.com/ganlanyuan/tiny-slider#readme",
+  "homepage": "https://github.com/cngJo/tiny-slider#readme",
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
