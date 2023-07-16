@@ -1,8 +1,9 @@
 # Tiny Slider 2
-[![](https://data.jsdelivr.com/v1/package/npm/tiny-slider/badge?style=rounded)](https://www.jsdelivr.com/package/npm/tiny-slider)
 ![version](https://img.shields.io/badge/Version-2.9.4-green.svg)
 
-Tiny slider for all purposes, inspired by [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/).
+Tiny slider for all purposes.
+
+> This is a fork of [ganlanyuan/tiny-slider](`https://github.com/ganlanyuan/tiny-slider`).
 
 [Demos](http://ganlanyuan.github.io/tiny-slider/demo)
 
@@ -514,13 +515,8 @@ Firefox Mobile 28+ ✓
 Maxthon 4+ ✓
 
 ## Support
-<a href="https://www.browserstack.com/" target="_blank"><img src="logos/browserstack.svg" alt="Browser Stack" width="170"></a><br>Live tests and Automated Tests <br>
-<br>
-<a href="https://crossbrowsertesting.com/" target="_blank"><img src="logos/cbt.svg" width="230" alt="Cross Browser Testing"></a><br>Live tests, Screenshots and Automated Tests <br>
-<br>
-[Cdnjs](https://cdnjs.com/)
-<br>
 Images on demo page are from https://unsplash.com/.
 
 ## License
 This project is available under the [MIT](https://opensource.org/licenses/mit-license.php) license.
+See [LICENSE](./LICENSE) for more details.
